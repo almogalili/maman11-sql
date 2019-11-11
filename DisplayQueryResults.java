@@ -18,7 +18,7 @@ public class DisplayQueryResults {
 
 	private static final String DATABASE_URL = "jdbc:postgresql://localhost:5432/postgres";
 	private static final String USERNAME = "postgres";
-	private static final String PASSWORD = "12i12144";
+	private static final String PASSWORD = "";
 
 	// execute default query, if we have syntax error
 	private static final String DEFAULT_QUERY = "SELECT * FROM Employee";
